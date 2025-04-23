@@ -1,0 +1,369 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D18083-FC89-4346-A62C-11816D365EC6}|ClientsControl.Infraestructure\\ClientsControl.Infraestructure.csproj|c:\\users\\brsen\\source\\jobs\\controleclientes\\clientscontrol\\clientscontrol\\clientscontrol.infraestructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D18083-FC89-4346-A62C-11816D365EC6}|ClientsControl.Infraestructure\\ClientsControl.Infraestructure.csproj|solutionrelative:clientscontrol.infraestructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9356EE-EE96-4EE4-A4CE-DCDF13632027}|ClientsControl.Domain\\ClientsControl.Domain.csproj|c:\\users\\brsen\\source\\jobs\\controleclientes\\clientscontrol\\clientscontrol\\clientscontrol.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9356EE-EE96-4EE4-A4CE-DCDF13632027}|ClientsControl.Domain\\ClientsControl.Domain.csproj|solutionrelative:clientscontrol.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F89FFE-11CE-4BA0-8394-42F1DF2BDAD0}|Clients.API\\ClientsControl.API.csproj|c:\\users\\brsen\\source\\jobs\\controleclientes\\clientscontrol\\clientscontrol\\clients.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F89FFE-11CE-4BA0-8394-42F1DF2BDAD0}|Clients.API\\ClientsControl.API.csproj|solutionrelative:clients.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F89FFE-11CE-4BA0-8394-42F1DF2BDAD0}|Clients.API\\ClientsControl.API.csproj|c:\\users\\brsen\\source\\jobs\\controleclientes\\clientscontrol\\clientscontrol\\clients.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4F89FFE-11CE-4BA0-8394-42F1DF2BDAD0}|Clients.API\\ClientsControl.API.csproj|solutionrelative:clients.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F7ECC8-79BA-4401-A73F-5C6A8C97B19B}|ClientsControl.Application\\ClientsControl.Application.csproj|c:\\users\\brsen\\source\\jobs\\controleclientes\\clientscontrol\\clientscontrol\\clientscontrol.application\\dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F7ECC8-79BA-4401-A73F-5C6A8C97B19B}|ClientsControl.Application\\ClientsControl.Application.csproj|solutionrelative:clientscontrol.application\\dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F7ECC8-79BA-4401-A73F-5C6A8C97B19B}|ClientsControl.Application\\ClientsControl.Application.csproj|c:\\users\\brsen\\source\\jobs\\controleclientes\\clientscontrol\\clientscontrol\\clientscontrol.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F7ECC8-79BA-4401-A73F-5C6A8C97B19B}|ClientsControl.Application\\ClientsControl.Application.csproj|solutionrelative:clientscontrol.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D18083-FC89-4346-A62C-11816D365EC6}|ClientsControl.Infraestructure\\ClientsControl.Infraestructure.csproj|c:\\users\\brsen\\source\\jobs\\controleclientes\\clientscontrol\\clientscontrol\\clientscontrol.infraestructure\\context\\entitiescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D18083-FC89-4346-A62C-11816D365EC6}|ClientsControl.Infraestructure\\ClientsControl.Infraestructure.csproj|solutionrelative:clientscontrol.infraestructure\\context\\entitiescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9356EE-EE96-4EE4-A4CE-DCDF13632027}|ClientsControl.Domain\\ClientsControl.Domain.csproj|c:\\users\\brsen\\source\\jobs\\controleclientes\\clientscontrol\\clientscontrol\\clientscontrol.domain\\entities\\client\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9356EE-EE96-4EE4-A4CE-DCDF13632027}|ClientsControl.Domain\\ClientsControl.Domain.csproj|solutionrelative:clientscontrol.domain\\entities\\client\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9356EE-EE96-4EE4-A4CE-DCDF13632027}|ClientsControl.Domain\\ClientsControl.Domain.csproj|c:\\users\\brsen\\source\\jobs\\controleclientes\\clientscontrol\\clientscontrol\\clientscontrol.domain\\entities\\client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9356EE-EE96-4EE4-A4CE-DCDF13632027}|ClientsControl.Domain\\ClientsControl.Domain.csproj|solutionrelative:clientscontrol.domain\\entities\\client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9356EE-EE96-4EE4-A4CE-DCDF13632027}|ClientsControl.Domain\\ClientsControl.Domain.csproj|c:\\users\\brsen\\source\\jobs\\controleclientes\\clientscontrol\\clientscontrol\\clientscontrol.domain\\entities\\client\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9356EE-EE96-4EE4-A4CE-DCDF13632027}|ClientsControl.Domain\\ClientsControl.Domain.csproj|solutionrelative:clientscontrol.domain\\entities\\client\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9356EE-EE96-4EE4-A4CE-DCDF13632027}|ClientsControl.Domain\\ClientsControl.Domain.csproj|c:\\users\\brsen\\source\\jobs\\controleclientes\\clientscontrol\\clientscontrol\\clientscontrol.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9356EE-EE96-4EE4-A4CE-DCDF13632027}|ClientsControl.Domain\\ClientsControl.Domain.csproj|solutionrelative:clientscontrol.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9356EE-EE96-4EE4-A4CE-DCDF13632027}|ClientsControl.Domain\\ClientsControl.Domain.csproj|c:\\users\\brsen\\source\\jobs\\controleclientes\\clientscontrol\\clientscontrol\\clientscontrol.domain\\entities\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9356EE-EE96-4EE4-A4CE-DCDF13632027}|ClientsControl.Domain\\ClientsControl.Domain.csproj|solutionrelative:clientscontrol.domain\\entities\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9356EE-EE96-4EE4-A4CE-DCDF13632027}|ClientsControl.Domain\\ClientsControl.Domain.csproj|c:\\users\\brsen\\source\\jobs\\controleclientes\\clientscontrol\\clientscontrol\\clientscontrol.domain\\entities\\user\\enum\\sector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9356EE-EE96-4EE4-A4CE-DCDF13632027}|ClientsControl.Domain\\ClientsControl.Domain.csproj|solutionrelative:clientscontrol.domain\\entities\\user\\enum\\sector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9356EE-EE96-4EE4-A4CE-DCDF13632027}|ClientsControl.Domain\\ClientsControl.Domain.csproj|c:\\users\\brsen\\source\\jobs\\controleclientes\\clientscontrol\\clientscontrol\\clientscontrol.domain\\entities\\client\\enum\\servermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9356EE-EE96-4EE4-A4CE-DCDF13632027}|ClientsControl.Domain\\ClientsControl.Domain.csproj|solutionrelative:clientscontrol.domain\\entities\\client\\enum\\servermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9356EE-EE96-4EE4-A4CE-DCDF13632027}|ClientsControl.Domain\\ClientsControl.Domain.csproj|c:\\users\\brsen\\source\\jobs\\controleclientes\\clientscontrol\\clientscontrol\\clientscontrol.domain\\entities\\client\\enum\\categoryclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9356EE-EE96-4EE4-A4CE-DCDF13632027}|ClientsControl.Domain\\ClientsControl.Domain.csproj|solutionrelative:clientscontrol.domain\\entities\\client\\enum\\categoryclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9356EE-EE96-4EE4-A4CE-DCDF13632027}|ClientsControl.Domain\\ClientsControl.Domain.csproj|c:\\users\\brsen\\source\\jobs\\controleclientes\\clientscontrol\\clientscontrol\\clientscontrol.domain\\entities\\client\\enum\\businessmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9356EE-EE96-4EE4-A4CE-DCDF13632027}|ClientsControl.Domain\\ClientsControl.Domain.csproj|solutionrelative:clientscontrol.domain\\entities\\client\\enum\\businessmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F7ECC8-79BA-4401-A73F-5C6A8C97B19B}|ClientsControl.Application\\ClientsControl.Application.csproj|c:\\users\\brsen\\source\\jobs\\controleclientes\\clientscontrol\\clientscontrol\\clientscontrol.application\\clientscontrol.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{03F7ECC8-79BA-4401-A73F-5C6A8C97B19B}|ClientsControl.Application\\ClientsControl.Application.csproj|solutionrelative:clientscontrol.application\\clientscontrol.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9356EE-EE96-4EE4-A4CE-DCDF13632027}|ClientsControl.Domain\\ClientsControl.Domain.csproj|c:\\users\\brsen\\source\\jobs\\controleclientes\\clientscontrol\\clientscontrol\\clientscontrol.domain\\clientscontrol.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5D9356EE-EE96-4EE4-A4CE-DCDF13632027}|ClientsControl.Domain\\ClientsControl.Domain.csproj|solutionrelative:clientscontrol.domain\\clientscontrol.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F89FFE-11CE-4BA0-8394-42F1DF2BDAD0}|Clients.API\\ClientsControl.API.csproj|c:\\users\\brsen\\source\\jobs\\controleclientes\\clientscontrol\\clientscontrol\\clients.api\\clientscontrol.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F4F89FFE-11CE-4BA0-8394-42F1DF2BDAD0}|Clients.API\\ClientsControl.API.csproj|solutionrelative:clients.api\\clientscontrol.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1E1842-15A0-4F30-9A35-A0ECFDCFD349}|ClientsControl.CrossCutting\\ClientsControl.CrossCutting.csproj|c:\\users\\brsen\\source\\jobs\\controleclientes\\clientscontrol\\clientscontrol\\clientscontrol.crosscutting\\clientscontrol.crosscutting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5F1E1842-15A0-4F30-9A35-A0ECFDCFD349}|ClientsControl.CrossCutting\\ClientsControl.CrossCutting.csproj|solutionrelative:clientscontrol.crosscutting\\clientscontrol.crosscutting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D18083-FC89-4346-A62C-11816D365EC6}|ClientsControl.Infraestructure\\ClientsControl.Infraestructure.csproj|c:\\users\\brsen\\source\\jobs\\controleclientes\\clientscontrol\\clientscontrol\\clientscontrol.infraestructure\\clientscontrol.infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E0D18083-FC89-4346-A62C-11816D365EC6}|ClientsControl.Infraestructure\\ClientsControl.Infraestructure.csproj|solutionrelative:clientscontrol.infraestructure\\clientscontrol.infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\Clients.API\\Program.cs",
+              "RelativeDocumentMoniker": "Clients.API\\Program.cs",
+              "ToolTip": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\Clients.API\\Program.cs",
+              "RelativeToolTip": "Clients.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:31:12.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Infraestructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "ClientsControl.Infraestructure\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Infraestructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "ClientsControl.Infraestructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:05:24.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientDTO.cs",
+              "DocumentMoniker": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Application\\DTOs\\ClientDTO.cs",
+              "RelativeDocumentMoniker": "ClientsControl.Application\\DTOs\\ClientDTO.cs",
+              "ToolTip": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Application\\DTOs\\ClientDTO.cs",
+              "RelativeToolTip": "ClientsControl.Application\\DTOs\\ClientDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:27:13.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Application\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "ClientsControl.Application\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Application\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "ClientsControl.Application\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:26:55.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Domain\\Entities\\Client\\Address.cs",
+              "RelativeDocumentMoniker": "ClientsControl.Domain\\Entities\\Client\\Address.cs",
+              "ToolTip": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Domain\\Entities\\Client\\Address.cs",
+              "RelativeToolTip": "ClientsControl.Domain\\Entities\\Client\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T16:00:08.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sector.cs",
+              "DocumentMoniker": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Domain\\Entities\\User\\Enum\\Sector.cs",
+              "RelativeDocumentMoniker": "ClientsControl.Domain\\Entities\\User\\Enum\\Sector.cs",
+              "ToolTip": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Domain\\Entities\\User\\Enum\\Sector.cs",
+              "RelativeToolTip": "ClientsControl.Domain\\Entities\\User\\Enum\\Sector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T16:00:08.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Domain\\Entities\\Entity.cs",
+              "RelativeDocumentMoniker": "ClientsControl.Domain\\Entities\\Entity.cs",
+              "ToolTip": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Domain\\Entities\\Entity.cs",
+              "RelativeToolTip": "ClientsControl.Domain\\Entities\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T16:00:08.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Domain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "ClientsControl.Domain\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Domain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "ClientsControl.Domain\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T10:03:27.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServerModel.cs",
+              "DocumentMoniker": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Domain\\Entities\\Client\\Enum\\ServerModel.cs",
+              "RelativeDocumentMoniker": "ClientsControl.Domain\\Entities\\Client\\Enum\\ServerModel.cs",
+              "ToolTip": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Domain\\Entities\\Client\\Enum\\ServerModel.cs",
+              "RelativeToolTip": "ClientsControl.Domain\\Entities\\Client\\Enum\\ServerModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:49:42.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\Clients.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Clients.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\Clients.API\\appsettings.json",
+              "RelativeToolTip": "Clients.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-14T10:06:04.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Domain\\Entities\\User\\User.cs",
+              "RelativeDocumentMoniker": "ClientsControl.Domain\\Entities\\User\\User.cs",
+              "ToolTip": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Domain\\Entities\\User\\User.cs",
+              "RelativeToolTip": "ClientsControl.Domain\\Entities\\User\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T16:00:09.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EntitiesContext.cs",
+              "DocumentMoniker": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Infraestructure\\Context\\EntitiesContext.cs",
+              "RelativeDocumentMoniker": "ClientsControl.Infraestructure\\Context\\EntitiesContext.cs",
+              "ToolTip": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Infraestructure\\Context\\EntitiesContext.cs",
+              "RelativeToolTip": "ClientsControl.Infraestructure\\Context\\EntitiesContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T10:07:52.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Domain\\Entities\\Client\\Store.cs",
+              "RelativeDocumentMoniker": "ClientsControl.Domain\\Entities\\Client\\Store.cs",
+              "ToolTip": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Domain\\Entities\\Client\\Store.cs",
+              "RelativeToolTip": "ClientsControl.Domain\\Entities\\Client\\Store.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T16:00:06.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Domain\\Entities\\Client\\Client.cs",
+              "RelativeDocumentMoniker": "ClientsControl.Domain\\Entities\\Client\\Client.cs",
+              "ToolTip": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Domain\\Entities\\Client\\Client.cs",
+              "RelativeToolTip": "ClientsControl.Domain\\Entities\\Client\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T16:00:09.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryClient.cs",
+              "DocumentMoniker": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Domain\\Entities\\Client\\Enum\\CategoryClient.cs",
+              "RelativeDocumentMoniker": "ClientsControl.Domain\\Entities\\Client\\Enum\\CategoryClient.cs",
+              "ToolTip": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Domain\\Entities\\Client\\Enum\\CategoryClient.cs",
+              "RelativeToolTip": "ClientsControl.Domain\\Entities\\Client\\Enum\\CategoryClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:04:48.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BusinessModel.cs",
+              "DocumentMoniker": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Domain\\Entities\\Client\\Enum\\BusinessModel.cs",
+              "RelativeDocumentMoniker": "ClientsControl.Domain\\Entities\\Client\\Enum\\BusinessModel.cs",
+              "ToolTip": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Domain\\Entities\\Client\\Enum\\BusinessModel.cs",
+              "RelativeToolTip": "ClientsControl.Domain\\Entities\\Client\\Enum\\BusinessModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T16:00:09.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClientsControl.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Application\\ClientsControl.Application.csproj",
+              "RelativeDocumentMoniker": "ClientsControl.Application\\ClientsControl.Application.csproj",
+              "ToolTip": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Application\\ClientsControl.Application.csproj",
+              "RelativeToolTip": "ClientsControl.Application\\ClientsControl.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T16:00:03.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClientsControl.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Domain\\ClientsControl.Domain.csproj",
+              "RelativeDocumentMoniker": "ClientsControl.Domain\\ClientsControl.Domain.csproj",
+              "ToolTip": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Domain\\ClientsControl.Domain.csproj",
+              "RelativeToolTip": "ClientsControl.Domain\\ClientsControl.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T16:00:05.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClientsControl.API.csproj",
+              "DocumentMoniker": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\Clients.API\\ClientsControl.API.csproj",
+              "RelativeDocumentMoniker": "Clients.API\\ClientsControl.API.csproj",
+              "ToolTip": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\Clients.API\\ClientsControl.API.csproj",
+              "RelativeToolTip": "Clients.API\\ClientsControl.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T16:00:05.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClientsControl.CrossCutting.csproj",
+              "DocumentMoniker": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.CrossCutting\\ClientsControl.CrossCutting.csproj",
+              "RelativeDocumentMoniker": "ClientsControl.CrossCutting\\ClientsControl.CrossCutting.csproj",
+              "ToolTip": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.CrossCutting\\ClientsControl.CrossCutting.csproj",
+              "RelativeToolTip": "ClientsControl.CrossCutting\\ClientsControl.CrossCutting.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T16:00:05.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClientsControl.Infraestructure.csproj",
+              "DocumentMoniker": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Infraestructure\\ClientsControl.Infraestructure.csproj",
+              "RelativeDocumentMoniker": "ClientsControl.Infraestructure\\ClientsControl.Infraestructure.csproj",
+              "ToolTip": "C:\\Users\\brsen\\source\\Jobs\\ControleClientes\\ClientsControl\\ClientsControl\\ClientsControl.Infraestructure\\ClientsControl.Infraestructure.csproj",
+              "RelativeToolTip": "ClientsControl.Infraestructure\\ClientsControl.Infraestructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T16:00:05.458Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
